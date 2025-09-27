@@ -100,16 +100,13 @@
 <!-- 🌐 SOCIAL CONNECTIONS -->
 <div align="center">
 
-<a href="https://t.me/HotCookiee">
+<a href="https://t.me/SharpingO_o">
   <img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000"/>
 </a>
-<a href="mailto:your@email.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=stalc100pro@gmail.com&su=Subject&body=Message">
   <img src="https://img.shields.io/badge/Email-FF1744?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000"/>
 </a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000"/>
-</a>
-<a href="https://discord.gg/yourserver">
+<a href="https://discord.com/users/562668144074686494">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=000"/>
 </a>
 
@@ -128,8 +125,6 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6,9,12,15,18,21,24,27,30&height=200&section=footer&animation=twinkling"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
 ```
 🟢 Status: ONLINE    🔥 Mode: CODING    ⚡ Location: Russia
