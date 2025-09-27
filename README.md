@@ -72,7 +72,7 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HotCookiee&repo=TelegramBot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF1744&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=HotCookiee&repo=ShopNaviTGBot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF1744&text_color=ffffff"/>
 </td>
 <td align="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=HotCookiee&repo=WinTools&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=FF1744&text_color=ffffff"/>
