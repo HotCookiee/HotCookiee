@@ -10,13 +10,16 @@
 
 ## 🛠️ **TECH STACK**
 
-<img src="https://skillicons.dev/icons?i=python,cs,fastapi,postgresql,redis,sqlite,docker,git,vscode,visualstudio,postman,linux&theme=dark&perline=6"/>
-
+<img src="https://skillicons.dev/icons?i=python,cs,fastapi,postgres,redis,sqlite" />
+<br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,visualstudio" />
+<br>
+<img src="https://skillicons.dev/icons?i=pycharm" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="50" height="50" alt="SQLAlchemy" />
+<img src="https://raw.githubusercontent.com/pydantic/pydantic/main/docs/logo-white.svg" width="50" height="50" alt="Pydantic" />
 </div>
-
+<!-- 🐍 CONTRIBUTION SNAKE -->
 <div align="center">
-
-## 🐍 **CONTRIBUTION SNAKE**
 
 <picture>
   <source
